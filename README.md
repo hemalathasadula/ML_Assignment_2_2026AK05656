@@ -45,8 +45,7 @@ The objective of this project is to predict the presence of heart disease using 
 
 **Repository:**
 
-<https://github.com/hemalathasadula999/Assignment_ML>
-
+<https://github.com/hemalathasadula/ML_Assignment_2_2026AK05656/tree/main>
 ---
 
 ## Models Used
